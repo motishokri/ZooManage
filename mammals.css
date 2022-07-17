@@ -1,0 +1,27 @@
+body{
+    font-family:Tahoma, Geneva, sans-serif;
+    font-size:12px;
+    direction:lrt;	
+	
+}
+
+h2{
+	text-align:left;
+}
+
+
+.product-card {
+    cursor: pointer;
+	text-decoration: noun;
+}
+
+
+.product-class-link {
+    color: #014E2E;
+	text-decoration: none;
+}
+
+a {
+    color: #014E2E;
+    text-decoration: none;
+}

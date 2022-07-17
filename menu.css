@@ -1,0 +1,48 @@
+body{
+    font-family:Tahoma, Geneva, sans-serif;
+    font-size:12px;
+    direction:lrt;
+	background: url(img/zoobg.jpg)no-repeat center center fixed;
+	
+}
+a{
+    text-decoration:none;
+    color:#ffffff;
+	font-weight: bold;
+}
+a:hover{
+    color:#BFD2CA;
+}
+.menu-line{
+    padding: 10px 10px 10px 10px;
+	margin-top:-10px;
+	margin-left:-10px;
+	margin-right:-10px;
+	background:#014E2E;
+    display:block;
+}
+.menu-off{
+    display:inline-block;
+    list-style:none;
+    float:right;
+    width:60px;
+    height:25px;
+    padding-top:8px;
+    margin:2px;
+    text-align:center;
+}
+.menu-on{
+    display:inline-block;
+    list-style:none;
+    float:right;
+    width:60px;
+    height:25px;
+    padding-top:8px;
+    margin:2px;
+    text-align:center;        
+}
+.clear{
+    clear:both;
+}
+
+
